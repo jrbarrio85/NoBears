@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="JRB_NoBears" />
+		<Description value="Replaces Bears with Fat Cops." />
+		<Author value="jrbarrio" />
+		<Version value="1.0" />
+
+	</ModInfo>
+</xml>
